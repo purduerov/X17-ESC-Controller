@@ -6209,24 +6209,24 @@
 		)
 		(model "${KIPRJMOD}/libraries/DF11_10DP_2DSA_01_/DF11-10DS-2DSA(05).STEP"
 			(offset
-				(xyz 1.905 -24.765 -7.62)
+				(xyz 25.273 24.892 -7.62)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz 0 0 -90)
 			)
 		)
 		(model "${KIPRJMOD}/libraries/DF11_10DP_2DSA_01_/DF11-10DS-2DSA(05).STEP"
 			(offset
-				(xyz -25.4 -24.765 -7.62)
+				(xyz 52.578 24.892 -7.62)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 90)
+				(xyz 0 0 -90)
 			)
 		)
 	)

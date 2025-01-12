@@ -491,7 +491,7 @@
       "plot": "X17 ESC Controller Manufacturing Files/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "X17-ESC-Controller.step",
       "svg": "",
       "vrml": ""
     },
